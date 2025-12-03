@@ -12,13 +12,14 @@ This repository demonstrates how to run a local LLM using `llama-cpp-python`.
 - Internet connection (to download the model)
 
 
-My Hardware Info:
-System: Darwin
-Machine: arm64
-CPU Architecture: arm
-CPU Model: Apple M2
-CPU Cores: 8 physical, 8 logical
-RAM: 8 GB
+## My Hardware Info:
+
+- System: Darwin
+- Machine: arm64
+- CPU Architecture: arm
+- CPU Model: Apple M2
+- CPU Cores: 8 physical, 8 logical
+- RAM: 8 GB
 
 
 
